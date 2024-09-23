@@ -1,0 +1,14 @@
+c:\Users\victorrezende\Documents\proejtos_curso\obj\Debug\net8.0\proejtos_curso.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\victorrezende\Documents\proejtos_curso\obj\Debug\net8.0\proejtos_curso.AssemblyInfoInputs.cache
+c:\Users\victorrezende\Documents\proejtos_curso\obj\Debug\net8.0\proejtos_curso.AssemblyInfo.cs
+c:\Users\victorrezende\Documents\proejtos_curso\obj\Debug\net8.0\proejtos_curso.csproj.CoreCompileInputs.cache
+c:\Users\victorrezende\Documents\proejtos_curso\bin\Debug\net8.0\proejtos_curso.exe
+c:\Users\victorrezende\Documents\proejtos_curso\bin\Debug\net8.0\proejtos_curso.deps.json
+c:\Users\victorrezende\Documents\proejtos_curso\bin\Debug\net8.0\proejtos_curso.runtimeconfig.json
+c:\Users\victorrezende\Documents\proejtos_curso\bin\Debug\net8.0\proejtos_curso.dll
+c:\Users\victorrezende\Documents\proejtos_curso\bin\Debug\net8.0\proejtos_curso.pdb
+c:\Users\victorrezende\Documents\proejtos_curso\obj\Debug\net8.0\proejtos_curso.dll
+c:\Users\victorrezende\Documents\proejtos_curso\obj\Debug\net8.0\refint\proejtos_curso.dll
+c:\Users\victorrezende\Documents\proejtos_curso\obj\Debug\net8.0\proejtos_curso.pdb
+c:\Users\victorrezende\Documents\proejtos_curso\obj\Debug\net8.0\proejtos_curso.genruntimeconfig.cache
+c:\Users\victorrezende\Documents\proejtos_curso\obj\Debug\net8.0\ref\proejtos_curso.dll
